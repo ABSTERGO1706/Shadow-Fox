@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
-@CrossOrigin(origins = "https://shadow-fox-frontend.vercel.app")
+@CrossOrigin(origins = "https://shadow-fox-frontend-mmf4dzod-absterqo1706s-projects.vercel.app")
 @RestController
 @RequestMapping("/Timeline")
 public class TimelineController {

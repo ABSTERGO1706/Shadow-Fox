@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import javax.swing.*;
 import java.util.List;
-@CrossOrigin(origins = "http://localhost:5173")
+@CrossOrigin(origins = "https://shadow-fox-frontend.vercel.app")
 @RestController
 @RequestMapping("/Icons")
 public class IconsController {
